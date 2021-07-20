@@ -1,6 +1,6 @@
 # dummyflightbooking
 
-This is a simple script to simulate the booking of tickets through a python command-line interface. I'm still learning Python so the code might be a little messy but it works. Open to suggestions
+This is a simple script to simulate the booking of tickets through a python command-line interface. I'm still learning Python so the code might be a little messy but it works. Please enter a valid email as the script will acyually send you an email after the fake booking. Open to suggestions
 
 
 To run this script you need pyhton3.9 installed on your device along with selenium and chromedriver configured.
@@ -12,4 +12,6 @@ You also have to download chromedriver.exe from 'https://chromedriver.chromium.o
 Further you hadve to add the chromedriver.exe in PATH from environment variables. 
 
 To access environment variables Open the Start Search, type in “env”, and choose “Edit the system environment variables” →Click the “Environment Variables…” button→ click on Path → edit → add the path/location fo the chromedrive.exe file
+
+Those of you who are still wondering No this wont really book a plane ticket. It's called dummy for a reason
  
